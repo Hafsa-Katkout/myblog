@@ -1,12 +1,12 @@
 ---
 layout: page
-title: About
-permalink: /about/
+title: Acerca de mí
+permalink: /pepito/
 ---
 
 # about.md 
 > crear un nuevo contenido dentro de about.markdown debajo de header `a ver que pasará`
 
 ```
-by Hafsa Katkout AabilS
+by Hafsa Katkout Aabil
 ```

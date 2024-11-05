@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Nueva entrada"
+title:  "nueva entrada"
 date:   25/10/2024 10:12:40 +0200
 categories: jekyll update
 ---
