@@ -11,11 +11,6 @@ Hola soy **Hafsa Katkout Aabil** !
 
 Este blog nace de la necesidad de compartir lo que hemos aprendido a lo largo de los años y conectar con otras personas que tienen las mismas inquietudes y pasiones. Creemos en el poder del aprendizaje colaborativo y en la importancia de ayudar a los demás a crecer, compartir ideas y mejorar en lo que hacen.
 
-Aquí encontrarás:
-
-- **Tutoriales paso a paso** para que puedas aprender de manera práctica.
-- **Artículos de opinión** sobre las últimas tendencias en [tu tema].
-- **Proyectos y recursos** que puedes utilizar para mejorar tus habilidades.
 
 ## Nuestra Misión
 
