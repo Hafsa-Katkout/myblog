@@ -18,10 +18,10 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Pgina in Jekyll
+title: Pagina de Hafsa 
 email: hafsakatkout5@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  mi primera pagina web in Jekyll
+   tema básico de Jekyll, minima
 baseurl: "/myblog" # the subpath of your site, e.g. /blog
 url: "https://Hafsa-Katkout.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twiter_username: Hafsa Katkout
